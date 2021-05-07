@@ -12,3 +12,4 @@ How To Run:
 2. Open in VSCode on any flutter editor, run debug in Android emulator or Simulator
 
 Code Released under WTFPL. Feel free to copy or do whatever you want.
+Package and library used in this repo are under their own license, feel free to check them out.
